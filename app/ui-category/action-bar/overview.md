@@ -6,6 +6,6 @@ The ActionBar is NativeScript’s abstraction over the Android ActionBar and iOS
 
 **Native Component**
 
-| Android                | iOS      |
+| iOS                | Android      |
 |:-----------------------|:---------|
-| [android.widget.Toolbar](https://developer.android.com/reference/android/widget/Toolbar.html) | [UIView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/) | 
+| [UIView](https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIView_Class/) | [android.widget.Toolbar](https://developer.android.com/reference/android/widget/Toolbar.html) | 
